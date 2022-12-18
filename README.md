@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tientaidev
-- 👀 I’m interested in FinTech, Blockchain
-- 🌱 I’m currently learning Solidity, Rust
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tientaidev@gmail.com
 
 <!---
 tientaidev/tientaidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
